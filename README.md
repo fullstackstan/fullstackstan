@@ -2,6 +2,8 @@
 <h3 align="center">A passionate fullstack developer from Texas</h3>
 
 <p align="left"> <a href="https://twitter.com/fullstack_stan" target="blank"><img src="https://img.shields.io/twitter/follow/fullstack_stan?logo=twitter&style=for-the-badge" alt="fullstack_stan" /></a> </p>
+![gitartwork](gitartwork.svg)
+
 
 - 🌱 I’m currently learning **Node.js**
 
