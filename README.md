@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [http://stanleybrown.netlify.app](stanleybrown.netlify.app)
+- 👨‍💻 All of my projects are available at [stanleybrown.netlify.app](http://stanleybrown.netlify.app)
 
 - 📫 How to reach me **fullstackstan@gmail.com**
 
